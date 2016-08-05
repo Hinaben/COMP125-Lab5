@@ -7,7 +7,7 @@
  * @date August 4, 2016
  * 
  * StudentID: 821021425
- * 
+ * Website: http://comp125-821021425-lab5.azurewebsites.net
  * @description This file is the main javascript file for the web site
  */
 
